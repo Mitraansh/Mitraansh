@@ -3,7 +3,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/mitraansh?label=Follow)](https://twitter.com/intent/follow?screen_name=mitraansh)
 [![Linkedin: Mitraansh](https://img.shields.io/badge/-Mitraansh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mitraansh-raaj-khanna-b9512120a/)](https://www.linkedin.com/in/mitraansh-raaj-khanna-b9512120a/)
-![GitHub followers](https://img.shields.io/github/followers/Mitraansh098?label=Follow&style=social)
+![GitHub followers](https://img.shields.io/github/followers/Mitraansh?label=Follow&style=social)
 
 
 👇 Hit in your console or terminal to connect with me.
