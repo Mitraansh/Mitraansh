@@ -1,4 +1,3 @@
-![Mitraansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mitraansh&show_icons=true&theme=radical)
 <h2>नमस्ते (Namaste)🙏🏻, I'm Mitraansh Raaj Khanna! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
@@ -63,7 +62,8 @@ const Mitraansh = {
 > 📜 45 Public Repositories 
  > 
 > 🔑 20 Private Repositories  
- > 
+
+![Mitraansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mitraansh&show_icons=true&theme=radical)
 **I'm an Early 🐤** 
 
 ```text
