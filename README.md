@@ -18,8 +18,8 @@ npx Mitraansh
 ```javascript
 const Mitraansh = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Typescript", "Python", "Java", "php"],
-    askMeAbout: ["Machine Learning", "tech", "Python","MySql"],
+    code: ["Python", "C", "Java","C++","Django"],
+    askMeAbout: ["Machine Learning", "tech", "Python","MySql","Kivy"],
     technologies: {
         Machine Learning: {
             Prerequisites: ["Numpy", "Matplotlib", "SciPy", "Pandas"],
@@ -68,7 +68,7 @@ Windows                  56 mins             ███████████�
 **I Mostly Code in Python** 
 
 ```text
-Python                2 repos             █████████████████████████   100%
+Python                5 repos             █████████████████████████   100%
 C                     0 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   0% 
 C++                   0 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   0% 
 Java                  0 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   0% 
