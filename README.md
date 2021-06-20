@@ -21,24 +21,14 @@ npx Mitraansh
 const Mitraansh = {
     pronouns: "He" | "Him",
     code: ["Javascript", "Typescript", "Python", "Java", "php"],
-    askMeAbout: ["web dev", "tech", "app dev", "photography"],
+    askMeAbout: ["Machine Learning", "tech", "Python","MySql"],
     technologies: {
-        backEnd: {
-            js: ["node", "fastify", "express", "SuiteScript"],
+        Machine Learning: {
+            Prerequisites: ["Numpy", "Matplotlib", "SciPy", "Pandas"],
         },
-        frontEnd: {
-            js: ["Vue", "Nuxt"],
-            css: ["materialize", "vuetify", "bootstrap"]
-        },
-        mobileApp: {
-            native: ["Android Development", "Ios Development"]
-        },
-        devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
         databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
     },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentFocus: "Ios Mobile App Development",
+    currentFocus: "Machine Learning Engineer",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
@@ -51,7 +41,7 @@ const Mitraansh = {
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.5%20million%20lines%20of%20code-blue)
 
-![Mitraansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mitraansh&show_icons=true&theme=radical)
+![Mitraansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mitraansh&show_icons=true&theme=dark)
 
 📊 **This Week I Spent My Time On** 
 
@@ -87,12 +77,6 @@ Java                  0 repos             ░░░░░░░░░░░░�
 Django                0 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
 
 ```
-
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/Mitraansh098/Mitraansh098/master/charts/bar_graph.png) 
-
 
  Last Updated on 20/06/2021
 <!--END_SECTION:waka-->
