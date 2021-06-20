@@ -1,4 +1,5 @@
-<h2>नमस्ते (Namaste)🙏🏻, I'm Mitraansh Pratap Singh! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+![Mitraansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mitraansh&show_icons=true&theme=radical)
+<h2>नमस्ते (Namaste)🙏🏻, I'm Mitraansh Raaj Khanna! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/misterMitraansh?label=Follow)](https://twitter.com/intent/follow?screen_name=misterMitraansh)
