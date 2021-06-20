@@ -4,9 +4,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/mitraansh?label=Follow)](https://twitter.com/intent/follow?screen_name=mitraansh)
 [![Linkedin: Mitraansh](https://img.shields.io/badge/-Mitraansh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mitraansh-raaj-khanna-b9512120a/)](https://www.linkedin.com/in/mitraansh-raaj-khanna-b9512120a/)
 ![GitHub followers](https://img.shields.io/github/followers/Mitraansh098?label=Follow&style=social)
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://Mitraanshsingh.me/)](https://Mitraanshsingh.me/)
-![](https://visitor-badge.glitch.me/badge?page_id=Mitraansh098.Mitraansh098)
-![Waka Readme](https://github.com/Mitraansh098/Mitraansh098/workflows/Waka%20Readme/badge.svg)
+
 
 👇 Hit in your console or terminal to connect with me.
 
