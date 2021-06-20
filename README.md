@@ -1,25 +1,26 @@
-<h2>नमस्ते (Namaste)🙏🏻, I'm Mitraansh Raaj Khanna! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h2>नमस्ते (Namaste)🙏🏻, I'm Mitraansh Pratap Singh! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<p><em>Software Engineer at <a href="http://www.cleartax.in">ClearTax</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://twitter.com/intent/follow?screen_name=misteranmol)
-[![Linkedin: anmol](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/anmol-p-singh/)
-![GitHub followers](https://img.shields.io/github/followers/anmol098?label=Follow&style=social)
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://anmolsingh.me/)
-![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
-![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
+[![Twitter Follow](https://img.shields.io/twitter/follow/misterMitraansh?label=Follow)](https://twitter.com/intent/follow?screen_name=misterMitraansh)
+[![Linkedin: Mitraansh](https://img.shields.io/badge/-Mitraansh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Mitraansh-p-singh/)](https://www.linkedin.com/in/Mitraansh-p-singh/)
+![GitHub followers](https://img.shields.io/github/followers/Mitraansh098?label=Follow&style=social)
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://Mitraanshsingh.me/)](https://Mitraanshsingh.me/)
+![](https://visitor-badge.glitch.me/badge?page_id=Mitraansh098.Mitraansh098)
+![Waka Readme](https://github.com/Mitraansh098/Mitraansh098/workflows/Waka%20Readme/badge.svg)
 
 👇 Hit in your console or terminal to connect with me.
 
 ```bash
-npx anmol
+npx Mitraansh
 ```
-**👆 This command line tool can be found at [npx anmol](https://github.com/anmol098/npx_card)**
+**👆 This command line tool can be found at [npx Mitraansh](https://github.com/Mitraansh098/npx_card)**
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const anmol = {
+const Mitraansh = {
     pronouns: "He" | "Him",
     code: ["Javascript", "Typescript", "Python", "Java", "php"],
     askMeAbout: ["web dev", "tech", "app dev", "photography"],
@@ -126,10 +127,10 @@ Dart                     4 repos             ██░░░░░░░░░�
 
 **Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/anmol098/anmol098/master/charts/bar_graph.png) 
+![Chart not found](https://raw.githubusercontent.com/Mitraansh098/Mitraansh098/master/charts/bar_graph.png) 
 
 
  Last Updated on 20/06/2021
 <!--END_SECTION:waka-->
 
-**These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
+**These Readme stats are generated using github action [awesome-readme-stats](https://github.com/Mitraansh098/waka-readme-stats)**
