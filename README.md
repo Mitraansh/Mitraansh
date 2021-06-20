@@ -1,5 +1,5 @@
-<h2>नमस्ते (Namaste)🙏🏻, I'm Mitraansh Raaj Khanna! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<h2>नमस्ते (Namaste)🙏🏻, I'm Mitraansh Raaj Khanna! <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="230">
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/misterMitraansh?label=Follow)](https://twitter.com/intent/follow?screen_name=misterMitraansh)
 [![Linkedin: Mitraansh](https://img.shields.io/badge/-Mitraansh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Mitraansh-p-singh/)](https://www.linkedin.com/in/Mitraansh-p-singh/)
