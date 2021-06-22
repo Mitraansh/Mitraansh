@@ -39,7 +39,8 @@ const Mitraansh = {
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.5%20million%20lines%20of%20code-blue)
 
-![Mitraansh's GitHub stats](https://camo.githubusercontent.com/)
+![Mitraansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=mitraansh&show_icons=true&theme=dark)
+
 
 📊 **This Week I Spent My Time On** 
 
