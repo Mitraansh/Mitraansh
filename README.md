@@ -28,7 +28,7 @@ const Mitraansh = {
 
 ---
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-874-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-100-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.5%20million%20lines%20of%20code-blue)
 
@@ -42,7 +42,7 @@ const Mitraansh = {
 
 💬 Programming Languages: 
 Python                                      █████████████░░░░░░░░░░░░   80.04% 
-C                                           ██████████░░░░░░░░░░░░░░░   40.84% 
+C                                           ███░░░░░░░░░░░░░░░░░░░░░░   13.20% 
 C++                                         █░░░░░░░░░░░░░░░░░░░░░░░░   4.81% 
 Git Config                                  ░░░░░░░░░░░░░░░░░░░░░░░░░   1.09% 
 Java                                        ░░░░░░░░░░░░░░░░░░░░░░░░░   0.99%
@@ -71,5 +71,5 @@ Django                0 repos               ░░░░░░░░░░░░
 
 ```
 
- Last Updated on 20/07/2021
+ Last Updated on 21/07/2021
 <!--END_SECTION:waka-->
