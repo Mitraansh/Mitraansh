@@ -11,7 +11,7 @@
 ```javascript
 const Mitraansh = {
     pronouns: "He" | "Him",
-    code: ["Python", "C", "Java","C++","Django"],
+    code: ["Python", "C","C++","Django"],
     askMeAbout: ["Machine Learning", "tech", "Python","MySql","Kivy"],
     technologies: {
         Machine Learning: {
